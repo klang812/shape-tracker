@@ -1,5 +1,4 @@
-import { TestScheduler } from "jest";
-import Triangle from "./../src/triangle.js";
+import Triangle from './../src/js/triangle.js';
 
 describe("Triangle", () => {
 
